@@ -1,4 +1,4 @@
-aiohttp==3.9.5
+aiohttp==3.10.11
 anthropic[vertex]==0.21.3
 atlassian-python-api==3.41.4
 azure-devops==7.1.0b3
